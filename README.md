@@ -1,9 +1,11 @@
-### 1. Markdown_是什么_？
+### 参考资料
+[Markdown教程](https://markdown.com.cn/intro.html)
+### 1. Markdown是什么？
 
 **Markdown**是一种轻量级**标记语言**，它以纯文本形式(_易读、易写、易更改_)编写文档，并最终以HTML格式发布。  
 **Markdown**也可以理解为将以MARKDOWN语法编写的语言转换成HTML内容的工具。
 
-### [](https://github.com/Guyungy/Markdown#2-%E8%B0%81%E5%88%9B%E9%80%A0%E4%BA%86%E5%AE%83)2. _谁_创造了它？
+### [](https://github.com/Guyungy/Markdown#2-%E8%B0%81%E5%88%9B%E9%80%A0%E4%BA%86%E5%AE%83)2. 谁创造了它？
 
 它由[**Aaron Swartz**](http://www.aaronsw.com/)和**John Gruber**共同设计，**Aaron Swartz**就是那位于去年（_2013年1月11日_）自杀,有着**开挂**一般人生经历的程序员。维基百科对他的[介绍](http://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8)是：**软件工程师、作家、政治组织者、互联网活动家、维基百科人**。
 
@@ -17,7 +19,7 @@
 -   **2013**年1月自杀身亡。
 - 天才都有早逝的归途。
 
-### [](https://github.com/Guyungy/Markdown#3-%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E4%BD%BF%E7%94%A8%E5%AE%83)3. _为什么_要使用它？
+### [](https://github.com/Guyungy/Markdown#3-%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E4%BD%BF%E7%94%A8%E5%AE%83)3. 为什么要使用它？
 
 -   它是易读（看起来舒服）、易写（语法简单）、易更改**纯文本**。处处体现着**极简主义**的影子。
 -   兼容HTML，可以转换为HTML格式发布。
@@ -26,7 +28,7 @@
 -   更方便清晰地组织你的电子邮件。（Markdown-here, Airmail）
 -   摆脱Word（我不是认真的）。
 
-### [](https://github.com/Guyungy/Markdown#4-%E6%80%8E%E4%B9%88%E4%BD%BF%E7%94%A8)4. _怎么_使用？
+### [](https://github.com/Guyungy/Markdown#4-%E6%80%8E%E4%B9%88%E4%BD%BF%E7%94%A8)4. _怎么使用？
 
 如果不算**扩展**，Markdown的语法绝对**简单**到让你爱不释手。
 
